@@ -77,11 +77,11 @@ The file structure of this repository is as follows:
 ```         
 <repository-folder>
 |
-|--- R    (R functions created for this project live here)
+|---  Additional functions  (R functions created for this project live here)
+|
+|--- Analysis script   (R scripts for anlysis)
 |
 |--- renv (System library necesssary for `renv` to work. DON'T TOUCH)
-|
-|--- src  (Source scripts that implement the main processes)
 ```
 
 Use the folders as indicated to store the different files and generate the
