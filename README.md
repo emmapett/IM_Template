@@ -31,7 +31,7 @@ GitHub repository as an Rstudio project in the folder specified. The URL that
 must be entered into the `Repository URL` text box is:
 
 ```         
-<repository_url>
+https://github.com/emmapett/IM_Template.git
 ```
 
 After cloning the repository, the Rstudio project will open automatically in the
